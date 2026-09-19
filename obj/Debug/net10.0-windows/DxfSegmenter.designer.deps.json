@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IxMilia.Dxf/0.8.4": {
+        "runtime": {
+          "lib/netstandard2.0/IxMilia.Dxf.dll": {
+            "assemblyVersion": "0.8.4.0",
+            "fileVersion": "0.8.4.0"
+          }
+        }
+      },
+      "netDxf/2023.11.10": {
+        "runtime": {
+          "lib/net6.0/netDxf.dll": {
+            "assemblyVersion": "2023.11.10.0",
+            "fileVersion": "2023.11.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IxMilia.Dxf/0.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NTrAnCKMgaY0Tm/C1++rp9i+JGHkXL9vy7LjEimeqTOZMRsnyVEvcKksoMsMDyevQArm2epOJc4v+EWP8tSiPg==",
+      "path": "ixmilia.dxf/0.8.4",
+      "hashPath": "ixmilia.dxf.0.8.4.nupkg.sha512"
+    },
+    "netDxf/2023.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7BFtw6P5Zfli59HJJ3INq6InaWzgNnC7qQopP+5H8CUg/7FjUX0qG63kLLPplOy1sZSjnwGzAPEjk67g1O7LuQ==",
+      "path": "netdxf/2023.11.10",
+      "hashPath": "netdxf.2023.11.10.nupkg.sha512"
+    }
+  }
+}

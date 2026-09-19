@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "urulPGBnsQo=",
+  "success": true,
+  "projectFilePath": "C:\\CANguru-Drive\\OneDrive\\09 CARguru-Github\\20-CANguru-3.0\\6000-DxfSegmenter\\DxfSegmenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\ixmilia.dxf\\0.8.4\\ixmilia.dxf.0.8.4.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\netdxf\\2023.11.10\\netdxf.2023.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
